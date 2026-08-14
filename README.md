@@ -1,16 +1,24 @@
-## Hi there 👋
+Abhishekkumar Suresh Gupta
+Computer Engineering Student | Full-Stack Developer | Competitive Programmer
 
-<!--
-**abhishekgupt30/abhishekgupt30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical applications using MERN, Python, and Machine Learning,
+while exploring scalable systems and AI-powered products.
 
-Here are some ideas to get you started:
+Currently:
+• Building full-stack and AI/ML projects
+• Practicing DSA and Competitive Programming
+• Participating in hackathons
+• Exploring system design and scalable web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+C++ | Python | JavaScript | React | Node.js | Express | MongoDB
+Django | Machine Learning | Git | GitHub
+
+Featured Projects
+→ SmartSpend AI
+→ MentalMaster
+→ Community Planner
+→ IoT Smart Irrigation
+
+Competitive Programming
+LeetCode | Codeforces | CodeChef
